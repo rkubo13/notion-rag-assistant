@@ -1,0 +1,13 @@
+# Environments
+venv/
+env/
+
+# Secrets and environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database files (if you use local ChromaDB)
+chroma_db/
